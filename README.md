@@ -1,11 +1,3 @@
 My first readme
-
-^c
-^C
-My first readme  
-
-
-
-
-clear
+README update from github.com
 
